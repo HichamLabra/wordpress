@@ -9,6 +9,9 @@
  */
 
 
+//
+add_theme_support('post-thumbnails');
+
 
 /**
  * Menü registrieren "Main Menue"
